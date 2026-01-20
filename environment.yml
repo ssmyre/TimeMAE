@@ -1,0 +1,15 @@
+name: mvts
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.8
+  - tqdm
+  - tensorflow
+  - ipykernel
+  - lightning
+  - seaborn
+  - openpyxl
+  - tmux
+prefix: /opt/anaconda3/envs/mvts
