@@ -1,0 +1,47 @@
+saving model of step2906
+Finetune train epoch:1,loss:500248.26859837404,training_time:20002.39671206381
+saving model of step2906
+Finetune train epoch:1,loss:469760.38964104437,training_time:21092.941341442987
+saving model of step5812
+Finetune train epoch:2,loss:340758.516431521,training_time:20720.08402737789
+Finetune train epoch:3,loss:230088.9805386485,training_time:20674.93921486102
+Finetune train epoch:4,loss:184495.23002247507,training_time:20675.549546940252
+Finetune train epoch:5,loss:153376.3424649432,training_time:20592.347539220005
+Finetune train epoch:6,loss:131634.10856444642,training_time:20549.3103877604
+saving model of step20342
+Finetune train epoch:7,loss:189919.07500241956,training_time:20521.923110328615
+saving model of step23248
+Finetune train epoch:8,loss:410915.834630936,training_time:20504.94528830424
+Finetune train epoch:9,loss:320964.22259710514,training_time:20455.066559761763
+Finetune train epoch:10,loss:260654.1697646034,training_time:20456.288012953475
+Finetune train epoch:11,loss:308819.4874666638,training_time:20364.49125962518
+Finetune train epoch:12,loss:208929.81377430315,training_time:20168.366069661453
+Finetune train epoch:13,loss:327997.89503129304,training_time:20096.991542797536
+Finetune train epoch:14,loss:422885.0658605041,training_time:20044.593972733244
+Finetune train epoch:15,loss:366257.078931521,training_time:19767.65283660777
+Finetune train epoch:16,loss:334447.67605009035,training_time:19771.43269399926
+Finetune train epoch:17,loss:284129.7480347772,training_time:19772.804275920615
+Finetune train epoch:18,loss:240989.77240515314,training_time:19780.784709151834
+Finetune train epoch:19,loss:255056.75294111323,training_time:19778.405795084313
+Finetune train epoch:20,loss:207707.65872870784,training_time:19771.54929247126
+Finetune train epoch:21,loss:194944.9363722148,training_time:19776.024794863537
+Finetune train epoch:22,loss:182413.0719362956,training_time:19746.877144064754
+Finetune train epoch:23,loss:173725.0630632205,training_time:19802.168833339587
+Finetune train epoch:24,loss:165078.01288014022,training_time:19759.386272856966
+Finetune train epoch:25,loss:157652.62915627152,training_time:19768.236179906875
+Finetune train epoch:26,loss:150256.4346543251,training_time:19758.57011028938
+Finetune train epoch:27,loss:141722.64791729397,training_time:19763.035383645445
+Finetune train epoch:28,loss:133413.69489445328,training_time:19761.51491055824
+Finetune train epoch:29,loss:125429.44468475782,training_time:19771.103145070374
+Finetune train epoch:30,loss:123132.76511554758,training_time:19759.225812662393
+Finetune train epoch:31,loss:114921.43583722255,training_time:19771.891002159566
+Finetune train epoch:32,loss:112199.15694226386,training_time:19743.77703571506
+Finetune train epoch:33,loss:107173.37551617343,training_time:19741.21611848846
+Finetune train epoch:34,loss:100033.62206090309,training_time:19770.32023600489
+Finetune train epoch:35,loss:95542.71323944532,training_time:19758.976860389113
+Finetune train epoch:36,loss:85209.76650343578,training_time:19746.673126483336
+Finetune train epoch:37,loss:89396.77154419197,training_time:19761.24106398411
+Finetune train epoch:38,loss:80083.60162097277,training_time:19770.198128039017
+Finetune train epoch:39,loss:75394.88474949458,training_time:19799.59894246608
+Finetune train epoch:40,loss:70845.84698683758,training_time:19770.076421782374
+Finetune train epoch:41,loss:66477.37053523421,training_time:19769.621855964884
